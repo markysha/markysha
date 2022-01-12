@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi I'm Mark 😎
+
+About me 
+* Really wide experienced (C++, JavaScript, Python, Solidity)
+* Won [IOI](https://ioi2018.jp) 
+
+Check out my last projects:
+* Create stickers from NFT [@nftstickersbot](https://t.me/nftstickersbot)
+
+**Contact me: [telegram](https://t.me/mrkkrn/) / [linkedin](https://www.linkedin.com/in/markysha/) / [blog](https://t.me/markysha)**
 
 <!--
-**markysha/markysha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- won IOI ACM ICPC
+- HFT arbitrage bots
+- HSE НИУ ВШЭ
+- Machine learning, Dada science
+- Blockchain minimax Solidity
 -->
