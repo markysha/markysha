@@ -1,6 +1,6 @@
 # Hi I'm Mark 😎
 
-#### **[email](mailto:markkornwork@gmail.com) | [linkedin](https://www.linkedin.com/in/markysha/)**
+#### [cv](https://github.com/markysha/markysha/blob/master/cv.pdf) | **[email](mailto:markkornwork@gmail.com) | [linkedin](https://www.linkedin.com/in/markysha/)**
 
 <!--
 - won IOI ACM ICPC
